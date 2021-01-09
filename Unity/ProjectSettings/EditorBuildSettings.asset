@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/practica 5.unity
+    guid: 4f5236f9db7e31b43901ac4bd4f37b9c
   m_configObjects: {}

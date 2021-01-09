@@ -27,7 +27,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             public void UpdateDesiredTargetSpeed(Vector2 input)
             {
 	            if (input == Vector2.zero) return;
-				if (input.x > 0 || input.x < 0)
+                if (input.x > 0 || input.x < 0)
 				{
 					//strafe
 					CurrentTargetSpeed = StrafeSpeed;

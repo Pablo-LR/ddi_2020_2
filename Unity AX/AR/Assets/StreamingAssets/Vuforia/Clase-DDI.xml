@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pyre_Houn" size="0.063500 0.090569" />
+    <ImageTarget name="Pore_over_the_Pages" size="0.063500 0.090569" />
+    <ImageTarget name="Goblin_Ruinblaster" size="0.063500 0.090569" />
+    <ImageTarget name="Galvanic_Bombardment" size="0.063500 0.090569" />
+    <ImageTarget name="Terrarion" size="0.063500 0.090569" />
+    <ImageTarget name="Island" size="0.063500 0.090569" />
+    <ImageTarget name="Mountain" size="0.063500 0.090569" />
+  </Tracking>
+</QCARConfig>
